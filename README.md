@@ -5,9 +5,13 @@
 <hr/>
 <h4 align="center">Newbie in Programming Field, Currently Working On WordPress Customization. Also Learning JavaScript </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PavelRiajul&label=Profile%20views&color=0e75b6&style=plastic" alt="PavelRiajul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PavelRiajul&label=Profile%20views&color=0e75b6&style=plastic" alt="PavelRiajul" /> </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PavelRiajul&theme=algolia" alt="PavelRiajul"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PavelRiajul&theme=algolia"  alt="PavelRiajul"  /></p>
+<div align="left">
+  
+### WakaTime
+  ![Riajul's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@PavelRiajul)
 
 ## 🛠️ My Skills
 
@@ -57,45 +61,5 @@
     
 </p>
 
-<br/>
-
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Riajul Islam Github Stats" src="https://github-readme-stats.vercel.app/api?username=mst-sarkar&show_icons=true&count_private=true&theme=mst-sarkar" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PavelRiajul&show_icons=true&locale=en&layout=compact&theme=Riajul Islam" alt="mst-sarkar
-" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/mst-sarkar
-"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PavelRiajul&custom_title=Riajul%20Islam's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-## 🙋‍Let's Connect
-<p align="center">
-	<a href="mailto:mst3083@yahoo.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/mst-sarkar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mrinmoy-sarkar-473968146/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/mrinmoysarkar.turza"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/mrinmoy_sarkar_turza/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-</p>
 
 <hr/>
