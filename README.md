@@ -8,10 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PavelRiajul&label=Profile%20views&color=0e75b6&style=plastic" alt="PavelRiajul" /> </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PavelRiajul&theme=algolia"  alt="PavelRiajul"  /></p>
-<div align="left">
-  
-### WakaTime
-  ![Riajul's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@PavelRiajul)
+
 
 ## 🛠️ My Skills
 
@@ -60,6 +57,10 @@
    
     
 </p>
+<div align="left">
+  
+### WakaTime
+  ![Riajul's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@PavelRiajul)
 
 
 <hr/>
