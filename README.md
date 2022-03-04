@@ -62,7 +62,7 @@
 ### Language
 
 <a href="https://github.com/PavelRiajul">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsirajul&theme=dark&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelRiajul&theme=dark&hide_langs_below=1" />
 </a>
 
 <br>
